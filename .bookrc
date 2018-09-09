@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Early English Hero Tales",
-  "type": "text"
+  "type": "text",
+  "book_id": 653
 }
